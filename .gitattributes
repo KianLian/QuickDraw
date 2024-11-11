@@ -1,0 +1,16 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Unreal Engine Specific
+*.uproject
+*.uproject.user
+*.sln
+*.xcodeproj
+*.xcworkspace
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.pdb
+*.obj
